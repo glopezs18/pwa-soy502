@@ -23,7 +23,7 @@ export default function Home() {
           📲 Para instalar esta app en tu dispositivo iOS, toca <strong>Compartir</strong> y selecciona <strong>“Añadir a inicio”</strong>.
         </div>
       )}
-      <h1 className="text-xl font-bold mb-2">Portada (Mobile)</h1>
+      <h1 className="text-xl font-bold mb-2">Portada Update(Mobile)</h1>
       <AdBlock />
       <div className="space-y-4">
         <NewsBlock title="Noticia 1" image="https://picsum.photos/300/300" summary="Resumen breve de la noticia 1." link="/articulo/noticia-1" />
